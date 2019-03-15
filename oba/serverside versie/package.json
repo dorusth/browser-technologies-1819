@@ -1,0 +1,31 @@
+{
+  "name": "oba",
+  "version": "1.0.0",
+  "description": "oba app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorusth/performance-matters-1819.git"
+  },
+  "keywords": [
+    "oba",
+    "api"
+  ],
+  "author": "Dorusth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dorusth/performance-matters-1819/issues"
+  },
+  "homepage": "https://github.com/dorusth/performance-matters-1819#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "handlebars": "^4.1.0",
+    "nodemon": "^1.18.10"
+  }
+}

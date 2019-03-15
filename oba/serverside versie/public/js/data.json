@@ -1,0 +1,3973 @@
+[{
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "1017789",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|1017789",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|1017789"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "78430085C8F331FA",
+			"search-type": "searcher"
+		},
+		"_text": "78430085C8F331FA"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Adrian-Hopkins/The-Beatles/Luisterboek/?itemid=%7coba-catalogus%7c1017789"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=334476682&isbn=9781849389334&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/334476682&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "The Beatles / ed. by Arthur Dick",
+				"search-type": "fuzzy"
+			},
+			"_text": "The Beatles / ed. by Arthur Dick"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "The Beatles"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Adrian Hopkins",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "organization",
+				"main": "true"
+			},
+			"_text": "Adrian Hopkins"
+		},
+		"author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles",
+				"search-type": "searcher",
+				"translation": "Auteur",
+				"creatortype": "unknown"
+			},
+			"_text": "Beatles"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "audiobook",
+				"search-type": "searcher"
+			},
+			"_text": "audiobook"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "bookwithcd",
+				"search-type": "searcher"
+			},
+			"_text": "bookwithcd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "book",
+				"search-type": "searcher"
+			},
+			"_text": "book"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n        ", "\n        ", "\n      "],
+		"isbn-id": {
+			"_attributes": {
+				"search-method": "isbn",
+				"search-term": "9781849389334",
+				"search-type": "searcher",
+				"translation": "ISBN"
+			},
+			"_text": "9781849389334"
+		},
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "334476682",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "334476682"
+		},
+		"ean-id": [{
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0000000091509",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0000000091509"
+		}, {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "00047201 (cd)",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "00047201 (cd)"
+		}, {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0000000092392",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0000000092392"
+		}]
+	},
+	"publication": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"year": {
+			"_attributes": {
+				"translation": "Publicatiejaar",
+				"search-method": "year",
+				"search-term": "2011",
+				"search-type": "searcher"
+			},
+			"_text": "2011"
+		},
+		"publishers": {
+			"_text": ["\n          ", "\n          ", "\n          ", "\n        "],
+			"publisher": [{
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "",
+					"search-type": "searcher",
+					"place": "London [etc.]"
+				}
+			}, {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "Wise",
+					"search-type": "searcher",
+					"place": "Bury St Edmunds"
+				},
+				"_text": "Wise"
+			}, {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "Music Sales [dist.]",
+					"search-type": "searcher",
+					"year": "2011"
+				},
+				"_text": "Music Sales [dist.]"
+			}]
+		}
+	},
+	"classification": {
+		"_attributes": {
+			"translation": "Plaatsingssuggestie"
+		},
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"siso-code": [{
+			"_attributes": {
+				"translation": "SISO",
+				"search-method": "siso",
+				"search-term": "786.6",
+				"search-type": "precise"
+			},
+			"_text": "786.6"
+		}, {
+			"_attributes": {
+				"translation": "SISO",
+				"search-method": "siso",
+				"search-term": "J786.6",
+				"search-type": "precise"
+			},
+			"_text": "J786.6"
+		}]
+	},
+	"languages": {},
+	"subjects": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n        ", "\n      "],
+		"topical-subject": [{
+			"_attributes": {
+				"translation": "Onderwerp",
+				"search-method": "subject",
+				"search-term": "Drummen",
+				"search-type": "fuzzy"
+			},
+			"_text": "Drummen"
+		}, {
+			"_attributes": {
+				"translation": "Onderwerp",
+				"search-method": "subject",
+				"search-term": "Techniek",
+				"search-type": "fuzzy"
+			},
+			"_text": "Techniek"
+		}, {
+			"_attributes": {
+				"translation": "Onderwerp",
+				"search-method": "subject",
+				"search-term": "Beatles, The",
+				"search-type": "fuzzy"
+			},
+			"_text": "Beatles, The"
+		}, {
+			"_attributes": {
+				"translation": "Onderwerp",
+				"search-method": "subject",
+				"search-term": "Meespeelmuziek",
+				"search-type": "fuzzy"
+			},
+			"_text": "Meespeelmuziek"
+		}]
+	},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "1 compact disc (ca. 31 min.) + 1 partituur (23 p.)"
+		}
+	},
+	"summaries": {
+		"_text": ["\n        ", "\n      "],
+		"summary": {
+			"_attributes": {
+				"translation": "Samenvatting"
+			},
+			"_text": "Vijf nummers van de The Beatles in een voorbeeld- en een meespeelversie voor drums"
+		}
+	},
+	"notes": {
+		"_text": ["\n        ", "\n      "],
+		"note": {
+			"_attributes": {
+				"translation": "Aantekening"
+			},
+			"_text": "Titel van label. - Booklet bevat de muzieknotatie, met drumtabulatuur en zangteksten. - Met drumnotatietabel. - Bevat: 1. Come together ; 2. The end ; 3. Rain ; 4. She said she said ; 5. Ticket to ride"
+		}
+	},
+	"series": {
+		"_text": ["\n        ", "\n      "],
+		"series-title": {
+			"_attributes": {
+				"translation": "In de reeks",
+				"search-method": "series",
+				"search-term": "Play along drum audio cd",
+				"search-type": "searcher"
+			},
+			"_text": "Play along drum audio cd"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|1017789",
+			"cnt": "1",
+			"sort": "year",
+			"frabl": "78430085C8F331FA",
+			"frabl-global-count": "2",
+			"frabl-key1": "the beatles",
+			"frabl-key2": "adrian hopkins beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "958629",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|958629",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|958629"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "6498707726F331FA",
+			"search-type": "searcher"
+		},
+		"_text": "6498707726F331FA"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Arthur-Dick/The-Beatles/Luisterboek/?itemid=%7coba-catalogus%7c958629"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=327711191&isbn=9781849382823&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/327711191&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "The Beatles / arr. by Arthur Dick",
+				"search-type": "fuzzy"
+			},
+			"_text": "The Beatles / arr. by Arthur Dick"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "The Beatles"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Arthur Dick",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "organization",
+				"main": "true"
+			},
+			"_text": "Arthur Dick"
+		},
+		"author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "The Beatles",
+				"search-type": "searcher",
+				"translation": "Auteur",
+				"creatortype": "unknown"
+			},
+			"_text": "Beatles, The"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "audiobook",
+				"search-type": "searcher"
+			},
+			"_text": "audiobook"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "bookwithcd",
+				"search-type": "searcher"
+			},
+			"_text": "bookwithcd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "book",
+				"search-type": "searcher"
+			},
+			"_text": "book"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n        ", "\n        ", "\n      "],
+		"isbn-id": {
+			"_attributes": {
+				"search-method": "isbn",
+				"search-term": "9781849382823",
+				"search-type": "searcher",
+				"translation": "ISBN"
+			},
+			"_text": "9781849382823"
+		},
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "327711191",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "327711191"
+		},
+		"ean-id": [{
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0000000091333",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0000000091333"
+		}, {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "00043538 (cd)",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "00043538 (cd)"
+		}, {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0000000092228",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0000000092228"
+		}]
+	},
+	"publication": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"year": {
+			"_attributes": {
+				"translation": "Publicatiejaar",
+				"search-method": "year",
+				"search-term": "2009",
+				"search-type": "searcher"
+			},
+			"_text": "2009"
+		},
+		"publishers": {
+			"_text": ["\n          ", "\n          ", "\n          ", "\n        "],
+			"publisher": [{
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "",
+					"search-type": "searcher",
+					"place": "London [etc.]"
+				}
+			}, {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "Wise",
+					"search-type": "searcher",
+					"place": "Bury St Edmunds"
+				},
+				"_text": "Wise"
+			}, {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "Music Sales [dist.]",
+					"search-type": "searcher",
+					"year": "2009"
+				},
+				"_text": "Music Sales [dist.]"
+			}]
+		}
+	},
+	"classification": {
+		"_attributes": {
+			"translation": "Plaatsingssuggestie"
+		},
+		"_text": ["\n        ", "\n      "],
+		"siso-code": {
+			"_attributes": {
+				"translation": "SISO",
+				"search-method": "siso",
+				"search-term": "786.31",
+				"search-type": "precise"
+			},
+			"_text": "786.31"
+		}
+	},
+	"languages": {},
+	"subjects": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"topical-subject": [{
+			"_attributes": {
+				"translation": "Onderwerp",
+				"search-method": "subject",
+				"search-term": "Gitaarspel",
+				"search-type": "fuzzy"
+			},
+			"_text": "Gitaarspel"
+		}, {
+			"_attributes": {
+				"translation": "Onderwerp",
+				"search-method": "subject",
+				"search-term": "Beatles, The",
+				"search-type": "fuzzy"
+			},
+			"_text": "Beatles, The"
+		}]
+	},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "1 compact disc (ca. 27 min.) + 1 partituur (32 p.)"
+		}
+	},
+	"summaries": {
+		"_text": ["\n        ", "\n      "],
+		"summary": {
+			"_attributes": {
+				"translation": "Samenvatting"
+			},
+			"_text": "Vijf nummers van The Beatles in een voorbeeld- en een meespeelversie voor (elektrische) gitaar"
+		}
+	},
+	"notes": {
+		"_text": ["\n        ", "\n      "],
+		"note": {
+			"_attributes": {
+				"translation": "Aantekening"
+			},
+			"_text": "Titel van label. - Booklet bevat de muzieknotatie, met gitaartabulatuur en zangteksten. - Bevat: 1. Day tripper ; 2. Drive my car ; 3. I feel fine ; 4. She loves you ; 5. Ticket to ride"
+		}
+	},
+	"series": {
+		"_text": ["\n        ", "\n      "],
+		"series-title": {
+			"_attributes": {
+				"translation": "In de reeks",
+				"search-method": "series",
+				"search-term": "Play along guitar audio cd",
+				"search-type": "searcher"
+			},
+			"_text": "Play along guitar audio cd"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|958629",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "6498707726F331FA",
+			"frabl-global-count": "1",
+			"frabl-key1": "the beatles",
+			"frabl-key2": "arthur dick the beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "1013315",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|1013315",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|1013315"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "4555AB4DE9F381FA",
+			"search-type": "searcher"
+		},
+		"_text": "4555AB4DE9F381FA"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Beatles/1/CD/?itemid=%7coba-catalogus%7c1013315"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=350546762&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://media.cdr.nl/COVER/small/FRONT/JK170475.jpg"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/350546762&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "1 / The Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "1 / The Beatles"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "1"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "unknown",
+				"main": "true"
+			},
+			"_text": "Beatles"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "350546762",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "350546762"
+		},
+		"ean-id": {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "50999 08307026",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "50999 08307026"
+		},
+		"cdr-id": {
+			"_attributes": {
+				"search-method": "cdr",
+				"search-term": "JK170475",
+				"search-type": "precise",
+				"translation": "Muziekweb"
+			},
+			"_text": "JK170475"
+		}
+	},
+	"publication": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"year": {
+			"_attributes": {
+				"translation": "Publicatiejaar",
+				"search-method": "year",
+				"search-term": "2011",
+				"search-type": "searcher"
+			},
+			"_text": "2011"
+		},
+		"publishers": {
+			"_text": ["\n          ", "\n        "],
+			"publisher": {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "",
+					"search-type": "searcher",
+					"year": "2011"
+				}
+			}
+		}
+	},
+	"languages": {},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "1 compact disc"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|1013315",
+			"cnt": "2",
+			"sort": "year",
+			"frabl": "4555AB4DE9F381FA",
+			"frabl-global-count": "3",
+			"frabl-key1": "1",
+			"frabl-key2": "beatles",
+			"translation": "Informatie over dubbele items"
+		},
+		"_text": ["\n        ", "\n      "],
+		"format": {
+			"_attributes": {
+				"text": "cd",
+				"icon": "/assets/resources/img/mat/cd.png?skin=oba&bld=20190304.232826",
+				"translation": "Formaat"
+			},
+			"_text": ["\n          ", "\n        "],
+			"item": {
+				"_attributes": {
+					"extid": "|oba-catalogus|1013315",
+					"frabl": "4555AB4DE9F381FA",
+					"language": "und",
+					"year": "2011",
+					"publisher": "",
+					"globalholdingscount": ""
+				}
+			}
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "211436",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|211436",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|211436"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "50E9269275F38000",
+			"search-type": "searcher"
+		},
+		"_text": "50E9269275F38000"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Beatles/Live-at-the-BBC/CD/?itemid=%7coba-catalogus%7c211436"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=365555916&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/365555916&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "Live at the BBC / The Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "Live at the BBC / The Beatles"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "Live at the BBC"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"lastname": "Beatles",
+				"creatortype": "person",
+				"main": "true"
+			},
+			"_text": "Beatles"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"isbn-id": {
+			"_attributes": {
+				"search-method": "isbn",
+				"search-term": "Apple 8317962",
+				"search-type": "searcher",
+				"translation": "ISBN"
+			},
+			"_text": "Apple 8317962"
+		},
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "365555916",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "365555916"
+		}
+	},
+	"publication": {
+		"_text": ["\n        ", "\n      "],
+		"publishers": {
+			"_text": ["\n          ", "\n        "],
+			"publisher": {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "2 compact discs",
+					"search-type": "searcher",
+					"place": "Geen plaats van uitgave"
+				},
+				"_text": "2 compact discs"
+			}
+		}
+	},
+	"classification": {
+		"_attributes": {
+			"translation": "Plaatsingssuggestie"
+		},
+		"_text": ["\n        ", "\n      "],
+		"siso-code": {
+			"_attributes": {
+				"translation": "SISO",
+				"search-method": "siso",
+				"search-term": "78",
+				"search-type": "precise"
+			},
+			"_text": "78"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|211436",
+			"cnt": "1",
+			"sort": "year",
+			"frabl": "50E9269275F38000",
+			"frabl-global-count": "2",
+			"frabl-key1": "live at the bbc",
+			"frabl-key2": "beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "918500",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|918500",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|918500"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "1664B36B25F381FA",
+			"search-type": "searcher"
+		},
+		"_text": "1664B36B25F381FA"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Beatles/Help!/CD/?itemid=%7coba-catalogus%7c918500"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=367534215&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://media.cdr.nl/COVER/small/FRONT/JK156376.jpg"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/367534215&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "Help! / The Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "Help! / The Beatles"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "Help!"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "unknown",
+				"main": "true"
+			},
+			"_text": "Beatles"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "367534215",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "367534215"
+		},
+		"ean-id": {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0000003824152",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0000003824152"
+		},
+		"cdr-id": {
+			"_attributes": {
+				"search-method": "cdr",
+				"search-term": "JK156376",
+				"search-type": "precise",
+				"translation": "Muziekweb"
+			},
+			"_text": "JK156376"
+		}
+	},
+	"publication": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"year": {
+			"_attributes": {
+				"translation": "Publicatiejaar",
+				"search-method": "year",
+				"search-term": "2009",
+				"search-type": "searcher"
+			},
+			"_text": "2009"
+		},
+		"publishers": {
+			"_text": ["\n          ", "\n        "],
+			"publisher": {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "",
+					"search-type": "searcher",
+					"year": "2009"
+				}
+			}
+		}
+	},
+	"languages": {},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "1 compact disc"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|918500",
+			"cnt": "1",
+			"sort": "year",
+			"frabl": "1664B36B25F381FA",
+			"frabl-global-count": "2",
+			"frabl-key1": "help",
+			"frabl-key2": "beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "918510",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|918510",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|918510"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "3E9B4CECC8F381FA",
+			"search-type": "searcher"
+		},
+		"_text": "3E9B4CECC8F381FA"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Beatles/The-Beatles-in-mono/CD/?itemid=%7coba-catalogus%7c918510"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=367878267&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://media.cdr.nl/COVER/small/FRONT/JK156386.jpg"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/367878267&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "The Beatles in mono / The Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "The Beatles in mono / The Beatles"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "The Beatles in mono"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "unknown",
+				"main": "true"
+			},
+			"_text": "Beatles"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "367878267",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "367878267"
+		},
+		"ean-id": {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0000006994512",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0000006994512"
+		},
+		"cdr-id": {
+			"_attributes": {
+				"search-method": "cdr",
+				"search-term": "JK156386",
+				"search-type": "precise",
+				"translation": "Muziekweb"
+			},
+			"_text": "JK156386"
+		}
+	},
+	"publication": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"year": {
+			"_attributes": {
+				"translation": "Publicatiejaar",
+				"search-method": "year",
+				"search-term": "2009",
+				"search-type": "searcher"
+			},
+			"_text": "2009"
+		},
+		"publishers": {
+			"_text": ["\n          ", "\n        "],
+			"publisher": {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "",
+					"search-type": "searcher",
+					"year": "2009"
+				}
+			}
+		}
+	},
+	"languages": {},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "13 compact discs"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|918510",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "3E9B4CECC8F381FA",
+			"frabl-global-count": "1",
+			"frabl-key1": "the beatles in mono",
+			"frabl-key2": "beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "1102417",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|1102417",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|1102417"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "1B3B0EA50BF381FA",
+			"search-type": "searcher"
+		},
+		"_text": "1B3B0EA50BF381FA"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Beatles/Live-at-the-BBC-The-collection/CD/?itemid=%7coba-catalogus%7c1102417"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=369630475&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://media.cdr.nl/COVER/small/FRONT/JK185279.jpg"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/369630475&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "Live at the BBC : The collection / The Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "Live at the BBC : The collection / The Beatles"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "Live at the BBC : The collection"
+		},
+		"subtitle": {
+			"_attributes": {
+				"translation": "Sub titel"
+			},
+			"_text": "The collection"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "unknown",
+				"main": "true"
+			},
+			"_text": "Beatles"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "369630475",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "369630475"
+		},
+		"ean-id": {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0000003758447",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0000003758447"
+		},
+		"cdr-id": {
+			"_attributes": {
+				"search-method": "cdr",
+				"search-term": "JK185279",
+				"search-type": "precise",
+				"translation": "Muziekweb"
+			},
+			"_text": "JK185279"
+		}
+	},
+	"publication": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"year": {
+			"_attributes": {
+				"translation": "Publicatiejaar",
+				"search-method": "year",
+				"search-term": "2013",
+				"search-type": "searcher"
+			},
+			"_text": "2013"
+		},
+		"publishers": {
+			"_text": ["\n          ", "\n        "],
+			"publisher": {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "",
+					"search-type": "searcher",
+					"year": "2013"
+				}
+			}
+		}
+	},
+	"languages": {},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "4 compact discs"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|1102417",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "1B3B0EA50BF381FA",
+			"frabl-global-count": "1",
+			"frabl-key1": "live at the bbc the collection",
+			"frabl-key2": "beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "211088",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|211088",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|211088"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "3AAE31FD8FF381FA",
+			"search-type": "searcher"
+		},
+		"_text": "3AAE31FD8FF381FA"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Beatles/1962-1966/CD/?itemid=%7coba-catalogus%7c211088"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=110563204&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/110563204&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "1962-1966 / The Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "1962-1966 / The Beatles"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "1962-1966"
+		},
+		"other-title": {
+			"_attributes": {
+				"translation": "Andere titel"
+			},
+			"_text": "The Beatles, 1962-1966"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "unknown",
+				"main": "true"
+			},
+			"_text": "Beatles"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n        ", "\n      "],
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "110563204",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "110563204"
+		},
+		"ean-id": [{
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0777 7 97036 2 3*2 CD's",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0777 7 97036 2 3*2 CD's"
+		}, {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0777 7 97037 2 2 (CD 1)",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0777 7 97037 2 2 (CD 1)"
+		}, {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0777 7 97038 2 1 (CD 2)",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0777 7 97038 2 1 (CD 2)"
+		}]
+	},
+	"publication": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"year": {
+			"_attributes": {
+				"translation": "Publicatiejaar",
+				"search-method": "year",
+				"search-term": "1993",
+				"search-type": "searcher"
+			},
+			"_text": "1993"
+		},
+		"publishers": {
+			"_text": ["\n          ", "\n        "],
+			"publisher": {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "",
+					"search-type": "searcher",
+					"year": "1993"
+				}
+			}
+		}
+	},
+	"languages": {},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "2 compact discs"
+		}
+	},
+	"notes": {
+		"_text": ["\n        ", "\n      "],
+		"note": {
+			"_attributes": {
+				"translation": "Aantekening"
+			},
+			"_text": "Tijdsduur: 62 min., 46 sec"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|211088",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "3AAE31FD8FF381FA",
+			"frabl-global-count": "1",
+			"frabl-key1": "1962 1966",
+			"frabl-key2": "beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "1106968",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|1106968",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|1106968"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "6169916712F381FA",
+			"search-type": "searcher"
+		},
+		"_text": "6169916712F381FA"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Beatles/The-early-Beatles/CD/?itemid=%7coba-catalogus%7c1106968"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=371473462&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://media.cdr.nl/COVER/small/FRONT/JK187109.jpg"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/371473462&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "The early Beatles / Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "The early Beatles / Beatles"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "The early Beatles"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "unknown",
+				"main": "true"
+			},
+			"_text": "Beatles"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "371473462",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "371473462"
+		},
+		"ean-id": {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0000000002309",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0000000002309"
+		},
+		"cdr-id": {
+			"_attributes": {
+				"search-method": "cdr",
+				"search-term": "JK187109",
+				"search-type": "precise",
+				"translation": "Muziekweb"
+			},
+			"_text": "JK187109"
+		}
+	},
+	"publication": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"year": {
+			"_attributes": {
+				"translation": "Publicatiejaar",
+				"search-method": "year",
+				"search-term": "2014",
+				"search-type": "searcher"
+			},
+			"_text": "2014"
+		},
+		"publishers": {
+			"_text": ["\n          ", "\n        "],
+			"publisher": {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "",
+					"search-type": "searcher",
+					"year": "2014"
+				}
+			}
+		}
+	},
+	"languages": {},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "1 compact disc"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|1106968",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "6169916712F381FA",
+			"frabl-global-count": "1",
+			"frabl-key1": "the early beatles",
+			"frabl-key2": "beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "1170050",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|1170050",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|1170050"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "70F0DE6028F381FA",
+			"search-type": "searcher"
+		},
+		"_text": "70F0DE6028F381FA"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Beatles/Sgt-Pepper%27s-lonely-hearts-club-band-2-cd/CD/?itemid=%7coba-catalogus%7c1170050"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=410751189&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://media.cdr.nl/COVER/small/FRONT/JK217083.jpg"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/410751189&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "Sgt. Pepper's lonely hearts club band : 2 cd anniversary edition / The Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "Sgt. Pepper's lonely hearts club band : 2 cd anniversary edition / The Beatles"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "Sgt. Pepper's lonely hearts club band : 2 cd anniversary edition"
+		},
+		"subtitle": {
+			"_attributes": {
+				"translation": "Sub titel"
+			},
+			"_text": "2 cd anniversary edition"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "unknown",
+				"main": "true"
+			},
+			"_text": "Beatles"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "410751189",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "410751189"
+		},
+		"ean-id": {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0602557455366",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0602557455366"
+		},
+		"cdr-id": {
+			"_attributes": {
+				"search-method": "cdr",
+				"search-term": "JK217083",
+				"search-type": "precise",
+				"translation": "Muziekweb"
+			},
+			"_text": "JK217083"
+		}
+	},
+	"publication": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"year": {
+			"_attributes": {
+				"translation": "Publicatiejaar",
+				"search-method": "year",
+				"search-term": "2017",
+				"search-type": "searcher"
+			},
+			"_text": "2017"
+		},
+		"publishers": {
+			"_text": ["\n          ", "\n        "],
+			"publisher": {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "",
+					"search-type": "searcher",
+					"year": "2017"
+				}
+			}
+		}
+	},
+	"languages": {},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "2 compact discs"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|1170050",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "70F0DE6028F381FA",
+			"frabl-global-count": "1",
+			"frabl-key1": "sgt pepper s lonely hearts club band 2 cd anniversary edition",
+			"frabl-key2": "beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "1177456",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|1177456",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|1177456"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "F53AE7254F381FA",
+			"search-type": "searcher"
+		},
+		"_text": "F53AE7254F381FA"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Beatles/Live-at-the-Hollywood-Bowl/CD/?itemid=%7coba-catalogus%7c1177456"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=406716447&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://media.cdr.nl/COVER/small/FRONT/JK210411.jpg"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/406716447&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "Live at the Hollywood Bowl / The Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "Live at the Hollywood Bowl / The Beatles"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "Live at the Hollywood Bowl"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "unknown",
+				"main": "true"
+			},
+			"_text": "Beatles"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "406716447",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "406716447"
+		},
+		"ean-id": {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0000005705497",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0000005705497"
+		},
+		"cdr-id": {
+			"_attributes": {
+				"search-method": "cdr",
+				"search-term": "JK210411",
+				"search-type": "precise",
+				"translation": "Muziekweb"
+			},
+			"_text": "JK210411"
+		}
+	},
+	"publication": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"year": {
+			"_attributes": {
+				"translation": "Publicatiejaar",
+				"search-method": "year",
+				"search-term": "2016",
+				"search-type": "searcher"
+			},
+			"_text": "2016"
+		},
+		"publishers": {
+			"_text": ["\n          ", "\n        "],
+			"publisher": {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "",
+					"search-type": "searcher",
+					"year": "2016"
+				}
+			}
+		}
+	},
+	"languages": {},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "1 compact disc"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|1177456",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "F53AE7254F381FA",
+			"frabl-global-count": "1",
+			"frabl-key1": "live at the hollywood bowl",
+			"frabl-key2": "beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "211126",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|211126",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|211126"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "57927EE796F38000",
+			"search-type": "searcher"
+		},
+		"_text": "57927EE796F38000"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Beatles/Anthology/CD/?itemid=%7coba-catalogus%7c211126"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=C980285321&isbn=0724383444526&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/C980285321&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n        ", "\n        ", "\n        ", "\n      "],
+		"title": [{
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "Anthology",
+				"search-type": "fuzzy"
+			},
+			"_text": "Anthology"
+		}, {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "Vol.1 / The Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "Vol.1 / The Beatles"
+		}],
+		"short-title": [{
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "Anthology"
+		}, {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "Vol.1"
+		}],
+		"other-title": [{
+			"_attributes": {
+				"translation": "Andere titel"
+			},
+			"_text": "Anthology"
+		}, {
+			"_attributes": {
+				"translation": "Andere titel"
+			},
+			"_text": "Vol.1"
+		}]
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"lastname": "Beatles",
+				"creatortype": "person",
+				"main": "true"
+			},
+			"_text": "Beatles"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"isbn-id": {
+			"_attributes": {
+				"search-method": "isbn",
+				"search-term": "Apple 7243 8 34445 26",
+				"search-type": "searcher",
+				"translation": "ISBN"
+			},
+			"_text": "Apple 7243 8 34445 26"
+		},
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "C980285321",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "C980285321"
+		}
+	},
+	"publication": {
+		"_text": ["\n        ", "\n      "],
+		"publishers": {
+			"_text": ["\n          ", "\n        "],
+			"publisher": {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "2 compact discs",
+					"search-type": "searcher",
+					"place": "Geen plaats van uitgave"
+				},
+				"_text": "2 compact discs"
+			}
+		}
+	},
+	"classification": {
+		"_attributes": {
+			"translation": "Plaatsingssuggestie"
+		},
+		"_text": ["\n        ", "\n      "],
+		"siso-code": {
+			"_attributes": {
+				"translation": "SISO",
+				"search-method": "siso",
+				"search-term": "78",
+				"search-type": "precise"
+			},
+			"_text": "78"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|211126",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "57927EE796F38000",
+			"frabl-global-count": "1",
+			"frabl-key1": "anthology vol 1",
+			"frabl-key2": "beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "211206",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|211206",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|211206"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "5B4A60F3A0F38000",
+			"search-type": "searcher"
+		},
+		"_text": "5B4A60F3A0F38000"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Beatles/The-Capitol-albums/CD/?itemid=%7coba-catalogus%7c211206"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=367070022&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://media.cdr.nl/COVER/small/FRONT/JK127270.jpg"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/367070022&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "The Capitol albums / The Beatles. Vol.1",
+				"search-type": "fuzzy"
+			},
+			"_text": "The Capitol albums / The Beatles. Vol.1"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "The Capitol albums"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles.",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "unknown",
+				"main": "true"
+			},
+			"_text": "Beatles."
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "367070022",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "367070022"
+		},
+		"ean-id": {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0000008753482",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0000008753482"
+		},
+		"cdr-id": {
+			"_attributes": {
+				"search-method": "cdr",
+				"search-term": "JK127270",
+				"search-type": "precise",
+				"translation": "Muziekweb"
+			},
+			"_text": "JK127270"
+		}
+	},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "4 compact discs"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|211206",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "5B4A60F3A0F38000",
+			"frabl-global-count": "1",
+			"frabl-key1": "the capitol albums vol 1",
+			"frabl-key2": "beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "211456",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|211456",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|211456"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "145D7ED719F38000",
+			"search-type": "searcher"
+		},
+		"_text": "145D7ED719F38000"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Beatles/Let-it-be-naked/CD/?itemid=%7coba-catalogus%7c211456"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=279689489&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://media.cdr.nl/COVER/small/FRONT/JK121371.jpg"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/279689489&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "Let it be...naked / The Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "Let it be...naked / The Beatles"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "Let it be...naked"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles.",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "unknown",
+				"main": "true"
+			},
+			"_text": "Beatles."
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "279689489",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "279689489"
+		},
+		"ean-id": {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0000005957142",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0000005957142"
+		},
+		"cdr-id": {
+			"_attributes": {
+				"search-method": "cdr",
+				"search-term": "JK121371",
+				"search-type": "precise",
+				"translation": "Muziekweb"
+			},
+			"_text": "JK121371"
+		}
+	},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "2 compact discs"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|211456",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "145D7ED719F38000",
+			"frabl-global-count": "1",
+			"frabl-key1": "let it be naked",
+			"frabl-key2": "beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "211506",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|211506",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|211506"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "5F0ED2852DF38000",
+			"search-type": "searcher"
+		},
+		"_text": "5F0ED2852DF38000"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/THE-BEATLES/MEET-THE-BEATLES-THE-ESSENTIAL-ALBUMS-OF-ALL/CD/?itemid=%7coba-catalogus%7c211506"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=cls00045565&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/cls00045565&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "MEET THE BEATLES-THE ESSENTIAL ALBUMS OF ALL TIME",
+				"search-type": "fuzzy"
+			},
+			"_text": "MEET THE BEATLES-THE ESSENTIAL ALBUMS OF ALL TIME"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "MEET THE BEATLES-THE ESSENTIAL ALBUMS OF ALL TIME"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "THE BEATLES",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "unknown",
+				"main": "true"
+			},
+			"_text": "BEATLES, THE"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n      "],
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "cls00045565",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "cls00045565"
+		}
+	},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "DVD-VIDEO"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|211506",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "5F0ED2852DF38000",
+			"frabl-global-count": "1",
+			"frabl-key1": "meet the beatles the essential albums of all time",
+			"frabl-key2": "the beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "211572",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|211572",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|211572"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "78D4B66593F38000",
+			"search-type": "searcher"
+		},
+		"_text": "78D4B66593F38000"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/THE-BEATLES/%22QUOTE%22UNQUOTE-THE-SIXTIES-INTERVIEWS-SPOKEN/CD/?itemid=%7coba-catalogus%7c211572"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=cls00045102&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/cls00045102&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "\"QUOTE\"UNQUOTE : THE SIXTIES INTERVIEWS-SPOKEN WORD",
+				"search-type": "fuzzy"
+			},
+			"_text": "\"QUOTE\"UNQUOTE : THE SIXTIES INTERVIEWS-SPOKEN WORD"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "\"QUOTE\"UNQUOTE : THE SIXTIES INTERVIEWS-SPOKEN WORD"
+		},
+		"subtitle": {
+			"_attributes": {
+				"translation": "Sub titel"
+			},
+			"_text": "THE SIXTIES INTERVIEWS-SPOKEN WORD"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "THE BEATLES",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "unknown",
+				"main": "true"
+			},
+			"_text": "BEATLES, THE"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n      "],
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "cls00045102",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "cls00045102"
+		}
+	},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "2 COMPACT DISCS"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|211572",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "78D4B66593F38000",
+			"frabl-global-count": "1",
+			"frabl-key1": "quote unquote the sixties interviews spoken word",
+			"frabl-key2": "the beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "211735",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|211735",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|211735"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "5D663E1410F38000",
+			"search-type": "searcher"
+		},
+		"_text": "5D663E1410F38000"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/THE-BEATLES/White-album/CD/?itemid=%7coba-catalogus%7c211735"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=364761768&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/364761768&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n        ", "\n        ", "\n        ", "\n        ", "\n        ", "\n        ", "\n        ", "\n        ", "\n      "],
+		"title": [{
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "White album",
+				"search-type": "fuzzy"
+			},
+			"_text": "White album"
+		}, {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "The Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "The Beatles"
+		}, {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "Productie uit 1968 / The Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "Productie uit 1968 / The Beatles"
+		}],
+		"short-title": [{
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "White album"
+		}, {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "The Beatles"
+		}, {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "Productie uit 1968"
+		}],
+		"other-title": [{
+			"_attributes": {
+				"translation": "Andere titel"
+			},
+			"_text": "White album"
+		}, {
+			"_attributes": {
+				"translation": "Andere titel"
+			},
+			"_text": "The Beatles"
+		}, {
+			"_attributes": {
+				"translation": "Andere titel"
+			},
+			"_text": "Productie uit 1968"
+		}, {
+			"_attributes": {
+				"translation": "Andere titel"
+			},
+			"_text": "White album"
+		}, {
+			"_attributes": {
+				"translation": "Andere titel"
+			},
+			"_text": "The Beatles"
+		}]
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "THE BEATLES",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"firstname": "THE",
+				"lastname": "BEATLES",
+				"creatortype": "person",
+				"main": "true"
+			},
+			"_text": "BEATLES, THE"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"isbn-id": {
+			"_attributes": {
+				"search-method": "isbn",
+				"search-term": "Parlophone CDS 7464438",
+				"search-type": "searcher",
+				"translation": "ISBN"
+			},
+			"_text": "Parlophone CDS 7464438"
+		},
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "364761768",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "364761768"
+		}
+	},
+	"publication": {
+		"_text": ["\n        ", "\n      "],
+		"publishers": {
+			"_text": ["\n          ", "\n        "],
+			"publisher": {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "2 compact discs",
+					"search-type": "searcher",
+					"place": "Geen plaats van uitgave"
+				},
+				"_text": "2 compact discs"
+			}
+		}
+	},
+	"classification": {
+		"_attributes": {
+			"translation": "Plaatsingssuggestie"
+		},
+		"_text": ["\n        ", "\n      "],
+		"siso-code": {
+			"_attributes": {
+				"translation": "SISO",
+				"search-method": "siso",
+				"search-term": "78",
+				"search-type": "precise"
+			},
+			"_text": "78"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|211735",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "5D663E1410F38000",
+			"frabl-global-count": "1",
+			"frabl-key1": "white album the beatles productie uit 1968",
+			"frabl-key2": "the beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "211745",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|211745",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|211745"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "24268C169BF38000",
+			"search-type": "searcher"
+		},
+		"_text": "24268C169BF38000"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Beatles/Yellow-submarine-songtrack/CD/?itemid=%7coba-catalogus%7c211745"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=366878565&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://media.cdr.nl/COVER/small/FRONT/HFX4359.jpg"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/366878565&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "Yellow submarine songtrack / The Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "Yellow submarine songtrack / The Beatles"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "Yellow submarine songtrack"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles.",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "unknown",
+				"main": "true"
+			},
+			"_text": "Beatles."
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "366878565",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "366878565"
+		},
+		"ean-id": {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0000005214812",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0000005214812"
+		},
+		"cdr-id": {
+			"_attributes": {
+				"search-method": "cdr",
+				"search-term": "HFX4359",
+				"search-type": "precise",
+				"translation": "Muziekweb"
+			},
+			"_text": "HFX4359"
+		}
+	},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "1 compact disc"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|211745",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "24268C169BF38000",
+			"frabl-global-count": "1",
+			"frabl-key1": "yellow submarine songtrack",
+			"frabl-key2": "beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "604190",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|604190",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|604190"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "2F15529807F381FA",
+			"search-type": "searcher"
+		},
+		"_text": "2F15529807F381FA"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Beatles/The-Capitol-albums/CD/?itemid=%7coba-catalogus%7c604190"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=351678069&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://media.cdr.nl/COVER/small/FRONT/JK134838.jpg"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/351678069&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "The Capitol albums / The Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "The Capitol albums / The Beatles"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "The Capitol albums"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "unknown",
+				"main": "true"
+			},
+			"_text": "Beatles"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "351678069",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "351678069"
+		},
+		"ean-id": {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0000003603352",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0000003603352"
+		},
+		"cdr-id": {
+			"_attributes": {
+				"search-method": "cdr",
+				"search-term": "JK134838",
+				"search-type": "precise",
+				"translation": "Muziekweb"
+			},
+			"_text": "JK134838"
+		}
+	},
+	"publication": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"year": {
+			"_attributes": {
+				"translation": "Publicatiejaar",
+				"search-method": "year",
+				"search-term": "2006",
+				"search-type": "searcher"
+			},
+			"_text": "2006"
+		},
+		"publishers": {
+			"_text": ["\n          ", "\n        "],
+			"publisher": {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "",
+					"search-type": "searcher",
+					"year": "2006"
+				}
+			}
+		}
+	},
+	"languages": {},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "4 compact discs"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|604190",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "2F15529807F381FA",
+			"frabl-global-count": "1",
+			"frabl-key1": "the capitol albums",
+			"frabl-key2": "beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}, {
+	"_text": ["\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n      ", "\n    "],
+	"id": {
+		"_attributes": {
+			"nativeid": "640423",
+			"ds": "library/v/OBA",
+			"translation": "ID",
+			"search-method": "id",
+			"search-term": "|oba-catalogus|640423",
+			"search-type": "precise"
+		},
+		"_text": "|oba-catalogus|640423"
+	},
+	"frabl": {
+		"_attributes": {
+			"translation": "FRBR Nummer (FRABL)",
+			"search-method": "frabl",
+			"search-term": "775A9F5759F381FA",
+			"search-type": "searcher"
+		},
+		"_text": "775A9F5759F381FA"
+	},
+	"detail-page": {
+		"_text": "http://zoeken.oba.nl/detail/Beatles/Love/CD/?itemid=%7coba-catalogus%7c640423"
+	},
+	"coverimages": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"coverimage": [{
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=325997454&isbn=&lid=&aut=&ti=&size=70"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://media.cdr.nl/COVER/small/FRONT/JK138412.jpg"
+		}, {
+			"_attributes": {
+				"translation": "Cover"
+			},
+			"_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/325997454&token=c1322402"
+		}]
+	},
+	"titles": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"title": {
+			"_attributes": {
+				"translation": "Titel",
+				"search-method": "title",
+				"search-term": "Love / The Beatles",
+				"search-type": "fuzzy"
+			},
+			"_text": "Love / The Beatles"
+		},
+		"short-title": {
+			"_attributes": {
+				"translation": "Korte titel"
+			},
+			"_text": "Love"
+		}
+	},
+	"authors": {
+		"_text": ["\n        ", "\n      "],
+		"main-author": {
+			"_attributes": {
+				"search-method": "author",
+				"search-term": "Beatles",
+				"search-type": "searcher",
+				"translation": "Auteur (hoofd)",
+				"creatortype": "unknown",
+				"main": "true"
+			},
+			"_text": "Beatles"
+		}
+	},
+	"formats": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"format": [{
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "cd",
+				"search-type": "searcher"
+			},
+			"_text": "cd"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "music",
+				"search-type": "searcher"
+			},
+			"_text": "music"
+		}, {
+			"_attributes": {
+				"translation": "Formaat",
+				"search-method": "format",
+				"search-term": "recording",
+				"search-type": "searcher"
+			},
+			"_text": "recording"
+		}]
+	},
+	"types": {
+		"_text": ["\n        ", "\n      "],
+		"type": {
+			"_attributes": {
+				"translation": "Type"
+			},
+			"_text": "Muziek"
+		}
+	},
+	"identifiers": {
+		"_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+		"ppn-id": {
+			"_attributes": {
+				"search-method": "ppn",
+				"search-term": "325997454",
+				"search-type": "precise",
+				"translation": "PICA productienummer"
+			},
+			"_text": "325997454"
+		},
+		"ean-id": {
+			"_attributes": {
+				"search-method": "ean",
+				"search-term": "0000003798082",
+				"search-type": "precise",
+				"translation": "EAN"
+			},
+			"_text": "0000003798082"
+		},
+		"cdr-id": {
+			"_attributes": {
+				"search-method": "cdr",
+				"search-term": "JK138412",
+				"search-type": "precise",
+				"translation": "Muziekweb"
+			},
+			"_text": "JK138412"
+		}
+	},
+	"publication": {
+		"_text": ["\n        ", "\n        ", "\n      "],
+		"year": {
+			"_attributes": {
+				"translation": "Publicatiejaar",
+				"search-method": "year",
+				"search-term": "2006",
+				"search-type": "searcher"
+			},
+			"_text": "2006"
+		},
+		"publishers": {
+			"_text": ["\n          ", "\n        "],
+			"publisher": {
+				"_attributes": {
+					"translation": "Uitgever",
+					"search-method": "publisher",
+					"search-term": "",
+					"search-type": "searcher",
+					"year": "2006"
+				}
+			}
+		}
+	},
+	"languages": {},
+	"description": {
+		"_text": ["\n        ", "\n      "],
+		"physical-description": {
+			"_attributes": {
+				"translation": "Kenmerken"
+			},
+			"_text": "1 compact disc"
+		}
+	},
+	"undup-info": {
+		"_attributes": {
+			"key": "|oba-catalogus|640423",
+			"cnt": "0",
+			"sort": "year",
+			"frabl": "775A9F5759F381FA",
+			"frabl-global-count": "1",
+			"frabl-key1": "love",
+			"frabl-key2": "beatles",
+			"translation": "Informatie over dubbele items"
+		}
+	}
+}]

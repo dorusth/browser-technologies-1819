@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Example App</title>
+	<link rel="stylesheet" type="text/css" href="../css/styles.css">
+</head>
+<body>
+	<header>
+		<a href="/"><img src="../img/oba_logo.svg" alt="logo"></a>
+		<div>
+			<a class="scan" href="/barcode"><img src="/img/barcode.svg" alt="scan barcode"></a>
+			<a class="sscan" href="/nfc"><img src="/img/nfc.svg" alt="scan nfc"></a>
+			<form class="headerSearch" action="/search">
+				<input type="text" name="search">
+			</form>
+		</div>
+	</header>
+	<main>
+    	{{{body}}}
+	</main>
+	<script type="text/javascript" src="./js/script.js"></script>
+</body>
+</html>
