@@ -5,32 +5,44 @@
 html, body {
   margin: 0; }
 
+body {
+  background: #789b4f;
+  background-image: url(../img/124.jpg);
+  background-repeat: repeat; }
+
 main {
+  background: white;
+  padding: 3em;
+  border-radius: 20px;
   width: 100%;
   max-width: 60rem;
-  margin: 0 auto; }
+  margin: 0 auto;
+  border: 5px solid black; }
   main h1 {
     text-align: center; }
   main section.score {
-    margin-top: 3em;
     display: flex;
     justify-content: center; }
     main section.score form {
       display: flex;
       flex-direction: column;
       align-items: center;
-      padding: 1rem 1vw 3rem; }
+      padding: 4rem 1vw 3rem; }
       main section.score form:first-of-type {
-        border-right: 1px solid black; }
+        border-right: 4px solid black; }
       main section.score form input {
         text-align: center; }
         main section.score form input[type=text] {
+          background: none;
           font-size: 2rem;
           max-width: 6em;
           border: none;
           margin-bottom: 1rem;
           padding: .5rem 0;
           border-bottom: 1px solid transparent; }
+          main section.score form input[type=text]::placeholder {
+            border-bottom: 1px solid black;
+            padding-bottom: .45rem; }
           main section.score form input[type=text]:focus {
             -webkit-transition: all .5s ease;
             -moz-transition: all .5s ease;
@@ -41,13 +53,13 @@ main {
             border-bottom: 1px solid black; }
         main section.score form input[type=number] {
           font-size: 2em;
-          width: 4rem;
+          width: 6rem;
           padding: 1rem 0 1rem 1rem; }
       main section.score form div {
         margin-top: 1em; }
         main section.score form div button {
           font-size: 3em;
-          width: 4rem;
+          width: 5rem;
           border: none; }
           main section.score form div button.up {
             background-color: #77bb45; }
@@ -56,8 +68,9 @@ main {
   main section.timer {
     padding-top: 2em;
     margin-top: 2em;
-    border-top: 1px solid black;
-    text-align: center; }
+    border-top: 4px solid black;
+    text-align: center;
+    color: white; }
     main section.timer div {
       display: inline-block; }
       main section.timer div p {
