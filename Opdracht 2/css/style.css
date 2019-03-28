@@ -69,8 +69,7 @@ main {
     padding-top: 2em;
     margin-top: 2em;
     border-top: 4px solid black;
-    text-align: center;
-    color: white; }
+    text-align: center; }
     main section.timer div {
       display: inline-block; }
       main section.timer div p {
