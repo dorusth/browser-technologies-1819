@@ -75,7 +75,7 @@ main {
     main section.timer div {
       display: inline-block; }
       main section.timer div p {
-        font-size: 2em;
+        font-size: 4em;
         font-weight: bold;
         float: left; }
         main section.timer div p::before {
